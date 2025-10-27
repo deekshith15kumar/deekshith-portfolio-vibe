@@ -3,10 +3,10 @@ import { GraduationCap } from "lucide-react";
 const Education = () => {
   const education = [
     {
-      degree: "BE in Computer Science Engineering",
+      degree: "Bachelor Of Technology in Computer Science and  Engineering(AIML)",
       institution: "Malla Reddy University",
       period: "2022 – 2026",
-      percentage: "84.4%",
+      percentage: "84.4%(as on 3-2 semester)",
     },
     {
       degree: "12th MPC",
