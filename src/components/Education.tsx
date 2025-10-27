@@ -18,7 +18,7 @@ const Education = () => {
       degree: "Secondary School(class 10 - TSSSC)",
       institution: "Shiva Shivani High School",
       period: "2020",
-      percentage: 95%,
+      percentage: "95%",
     }
   ];
 
