@@ -9,7 +9,7 @@ const Projects = () => {
       description:
         "Built a real-time multi-user chat system using Flask + Socket.IO + SQLite. Managed 100+ simultaneous users with less than 1 second delay.",
       technologies: ["Flask", "Socket.IO", "SQLite", "JavaScript"],
-      github: "#",
+      github: "https://github.com/deekshith15kumar/FSWD_4_Real-Time-Chat-Application_ARITHMATRIX",
     },
     {
       title: "Local Store E-Commerce Platform",
@@ -17,7 +17,15 @@ const Projects = () => {
       description:
         "Flask-based e-commerce platform with product listings, shopping cart functionality, and comprehensive REST APIs for seamless user experience.",
       technologies: ["Flask", "Python", "REST API", "SQLite"],
-      github: "#",
+      github: "https://github.com/deekshith15kumar/FSWD_3_LocalStoreE-commercePlatform_ARITHMATRIX",
+    },
+    {
+      title: "Employee Management System",
+      period: "Mar 2024 – May 2024",
+      description:
+        "This project is a simple Employee Management System with secure user authentication using JWT tokens, built using Node.js, Express, and SQLite for the backend, and vanilla HTML/JavaScript for the frontend.",
+      technologies: ["Flask", "Python", "REST API", "SQLite"],
+      github: "https://github.com/deekshith15kumar/FSWD_2-_Employee-Management-System_ARITHMATRIX",
     },
   ];
 
