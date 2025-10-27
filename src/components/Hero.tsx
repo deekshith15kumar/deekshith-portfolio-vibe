@@ -1,6 +1,7 @@
 import { Github, Linkedin, Download } from "lucide-react";
 import { Button } from "@/components/ui/button";
 
+
 const Hero = () => {
   return (
     <section
@@ -77,7 +78,12 @@ const Hero = () => {
               <div className="w-72 h-72 md:w-96 md:h-96 rounded-full bg-gradient-to-br from-primary to-secondary p-1 animate-float">
                 <div className="w-full h-full rounded-full bg-card flex items-center justify-center overflow-hidden">
                   <div className="w-full h-full rounded-full bg-gradient-to-br from-primary/20 to-secondary/20 flex items-center justify-center text-6xl font-bold text-primary">
-                    DK
+                    <img
+  src="/profile.jpg"
+  alt="K Deekshith Kumar"
+  className="w-full h-full rounded-full object-cover"
+/>
+
                   </div>
                 </div>
               </div>
