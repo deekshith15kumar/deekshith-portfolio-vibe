@@ -13,8 +13,8 @@ const About = () => {
               about designing, developing, and deploying scalable web applications. I love building projects 
               with <span className="text-secondary font-semibold">Flask</span>, 
               <span className="text-secondary font-semibold"> React</span>, 
-              <span className="text-secondary font-semibold"> Django</span>, and 
-              <span className="text-secondary font-semibold"> AWS</span>. My goal is to create 
+              <span className="text-secondary font-semibold"> MYSQL</span>, and 
+              <span className="text-secondary font-semibold"> NodeJS</span>. My goal is to create 
               high-performance, user-friendly, and reliable software solutions that make a real impact.
             </p>
           </div>
