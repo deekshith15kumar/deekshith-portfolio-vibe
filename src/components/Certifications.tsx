@@ -6,22 +6,22 @@ const Certifications = () => {
     {
       title: "Programming in Java",
       issuer: "IIT Madras",
-      link: "#",
+      link: "https://drive.google.com/file/d/11MuFyl_9_PvUGtVuFyAUf4uCiy8YaB76/view?usp=sharing",
     },
     {
       title: "Java Full Stack",
       issuer: "EduSkills",
-      link: "#",
+      link: "https://drive.google.com/file/d/1fkZxyICVLQEOQ8Kie_tjfMgCCr0tEwQJ/view?usp=sharing",
     },
     {
       title: "Scalable Machine Learning with Apache Spark",
       issuer: "IBM",
-      link: "#",
+      link: "https://drive.google.com/file/d/1QnzeAhtO_JkVnchX7yEo4_BSsSkf0w_F/view?usp=sharing",
     },
     {
       title: "Winner – Hackathon 2023",
       issuer: "Malla Reddy University",
-      link: "#",
+      link: "https://drive.google.com/file/d/1ms__jrX-bJIGN2UK_01GUYbm9cNUklSk/view?usp=sharing",
     },
   ];
 
