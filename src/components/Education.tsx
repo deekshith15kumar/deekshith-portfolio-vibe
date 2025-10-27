@@ -14,6 +14,12 @@ const Education = () => {
       period: "2020 – 2022",
       percentage: "95.7%",
     },
+    {
+      degree: "Secondary School(class 10 - TSSSC)",
+      institution: "Shiva Shivani High School",
+      period: "2020",
+      percentage: 95%,
+    }
   ];
 
   return (
