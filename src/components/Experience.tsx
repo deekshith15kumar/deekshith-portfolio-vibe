@@ -8,16 +8,16 @@ const Experience = () => {
       role: "Full Stack Web Developer Intern",
       period: "Sep 2025 – Oct 2025",
       description:
-        "Worked on Flask, Socket.IO, SQL, and frontend frameworks to develop real-time web applications and enhance user experiences.",
-      certificateLink: "#",
+        "Gained hands-on experience developing and deploying full-stack applications using Flask, Socket.IO, SQL, and frontend frameworks. Strengthened skills in real-world software development, agile methodologies, teamwork, and end-to-end application integration. ",
+      certificateLink: "https://drive.google.com/file/d/1VK7-n2k1KdrZE9aPDnACT5egYzQQ9Zgt/view?usp=sharing",
     },
     {
       company: "Amazon Web Services",
       role: "AIML Virtual Intern",
       period: "Sep 2023 – Nov 2023",
       description:
-        "Built ML models on AWS SageMaker, S3, and Rekognition. Gained hands-on experience with cloud-based machine learning workflows.",
-      certificateLink: "#",
+        "Developed and deployed ML models using AWS SageMaker, S3, and Recognition, applying cloud-based AI/ML solutions to real-world datasets, improving model accuracy, efficiency, and scalability. Enhanced cloud deployment, data preprocessing, and analytical skills through end-to-end project implementation. ",
+      certificateLink: "https://drive.google.com/file/d/1zr2FSovOA-DKFgE1PJDf0DA-YFWq2wY9/view?usp=sharing",
     },
   ];
 
