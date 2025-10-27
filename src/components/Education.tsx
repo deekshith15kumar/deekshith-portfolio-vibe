@@ -9,7 +9,7 @@ const Education = () => {
       percentage: "84.4%(as on 3-2 semester)",
     },
     {
-      degree: "12th MPC",
+      degree: "Intermediate(Class 12 - MPC)",
       institution: "C V Raman Junior College",
       period: "2020 – 2022",
       percentage: "95.7%",
